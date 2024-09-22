@@ -11,11 +11,15 @@
 🔐 An Open Source Geschool Secure Mode Mod 
 
 ![geschool](https://images-ext-1.discordapp.net/external/gRQi84lpqIIhcYlhsXVX5T_P88YUksVDdhs7_8pYXLw/https/media.tenor.com/Zz-87FXVKvoAAAAC/hajime-shino.gif)
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ChangeLog
-0.1 alpha test
-nothing
+v1 beta test test
+- public beta geschool mod via browser
+- auto answer (payed user only)
+- multi geschool support (support smua web geschool ntah kau kaltim diy seindonesia support)
+- ip spoof
+- -geschool gratis untuk semua
 ## how to use?
 - clone repo ini
 - lalu di extrak dan ketik npm start
