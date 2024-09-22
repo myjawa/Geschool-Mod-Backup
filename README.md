@@ -26,7 +26,8 @@ v1 beta test test
 - lalu server akan berjalan (disarankan menggunakan hosting indonesia)
 - client mengakses server tersebut dan login menggunakan akun geschool mereka.
   
-  demo : https://geschool.nigge.dev
+  demo : https://jomok.my.id
+
 
 ## Contribution
 
